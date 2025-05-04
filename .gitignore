@@ -1,0 +1,4 @@
+# Model files and directories
+saved_model/
+tfjs_model/
+tflite/
